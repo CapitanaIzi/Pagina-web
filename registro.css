@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(35, 129, 16);
+    color: white;
+    display: grid;
+    justify-items: center;
+    font-size: x-large;
+}
+#formulario-registro{
+    display: grid;
+    justify-items: start;
+
+    border: 2px inset black;
+
+    padding: 20px;
+    background-color: rgb(44, 187, 187);
+}
+input{
+    font-size: medium;
+}
+#formulario-boton {
+    margin-top: 20px;
+}

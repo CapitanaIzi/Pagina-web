@@ -1,7 +1,22 @@
 body{
-    background-color: rgb(122, 92, 92);
+    background-color: rgb(205, 161, 247);
     color: black;
+    font-size: 30px;
+    display: grid;
+    justify-items: center;
 }
-#segundo-imagen{
+img{
 border: 2px solid red;
+width: 3%;
+}
+.img-nro{
+ width: 10%;   
+}
+#entrada-texto{
+    margin: 10px;
+}
+#titulo-importante{
+    border: 2px solid black;
+    color: aqua;
+    background-color: aliceblue;
 }
