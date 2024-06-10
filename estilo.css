@@ -2,12 +2,13 @@ body{
     background-color: rgb(205, 161, 247);
     color: black;
     font-size: 30px;
-    display: grid;
+    display: grid;  /* para indicar a la pagina q use ese sistema de visualizacion */
     justify-items: center;
 }
 img{
 border: 2px solid red;
 width: 3%;
+margin-bottom: 90px;
 }
 .img-nro{
  width: 10%;   
@@ -17,6 +18,6 @@ width: 3%;
 }
 #titulo-importante{
     border: 2px solid black;
-    color: aqua;
+    color: rgb(5, 168, 168);
     background-color: aliceblue;
 }
